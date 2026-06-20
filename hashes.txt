@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos que dan vida
+
+This log tracks the cryptographic history and versioning for the song **Besos que dan vida** (besos-que-dan-vida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:59:40.946110 | `v1` | `f86bf7e5bf96a34ae58a6249a4114881f2abbb8a4fcd98842eec6b45abba086b` | `57aff7faf135237975e1036c056cfa89e32d1b93b6268c725f97422bd74b93a0` | `2026-06-21_besos-que-dan-vida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
